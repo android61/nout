@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NoteServiceTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2023-12-14T16:26:06" hostname="DESKTOP-N2J2I0D" time="0.128">
+  <properties/>
+  <testcase name="editNote_expected" classname="NoteServiceTest" time="0.038"/>
+  <testcase name="editComment" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="createComment" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="createComment_expected" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="editComment_expected" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="getComments_expected" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="getById" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="add" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="get" classname="NoteServiceTest" time="0.079"/>
+  <testcase name="get_expected" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="getById_expected" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="restoreComment" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="deleteNote_expected" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="deleteComment" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="restoreComment_expected" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="deleteComment_expected" classname="NoteServiceTest" time="0.003"/>
+  <testcase name="getComments" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="editNote" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="deleteNote" classname="NoteServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
